@@ -45,3 +45,7 @@ Next improvements (if I extend it)
 A dedicated Customer Retention page (new vs returning customers over time, cohort retention)
 Product-level drill-down (Top 10 products by profit/revenue, return rate by category/brand)
 Add a Date table + month/quarter slicers for smoother time analysis
+
+Screenshots:
+
+<img width="2068" height="1164" alt="image" src="https://github.com/user-attachments/assets/e7401148-b36d-4c0b-9876-26650bbbc978" />
